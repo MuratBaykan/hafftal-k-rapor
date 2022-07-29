@@ -1,1 +1,1 @@
-# hafftal-k-rapor
+# haftalık rapor
